@@ -26,3 +26,8 @@ python src/predict.py
 
 ## Evaluation
 The model is evaluated using the `classification_report` from `sklearn`, which gives precision, recall, and F1-score for each class.
+
+##output
+
+<img width="686" height="559" alt="image" src="https://github.com/user-attachments/assets/01f05718-487f-4130-8471-a6c32771c7ce" />
+
